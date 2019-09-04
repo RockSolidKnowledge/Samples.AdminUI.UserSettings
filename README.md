@@ -1,1 +1,1 @@
-Samples.AdminUI.UserSettings
+Sample User Self management portal for AdminUI
